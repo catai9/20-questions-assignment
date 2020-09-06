@@ -1,4 +1,4 @@
-# 20 Questions Assignment
+# 20 Questions Game
 
 Implementation of a "20 Questions" yes/no guessing game between a user and a computer.
 
